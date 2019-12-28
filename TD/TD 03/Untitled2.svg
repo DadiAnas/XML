@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg viewBox="0 0 100 100">
+    <path d="
+        M 20,20
+        C 20,10
+        40,10
+        40,20
+        L 40,50
+        M 40,20
+        C 20,10
+        40,10
+        40,20
+        L 40,50
+        " fill="red"></path>
+</svg>

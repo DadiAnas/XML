@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<repertoire>
+    <contact>
+        <nom> </nom>
+        <prenom></prenom>
+        <telephones>
+            <telephone type="mobile"></telephone>
+            <telephone type="bureau"></telephone>
+            <telephone type="domicile"></telephone>
+        </telephones>
+    </contact>
+</repertoire>

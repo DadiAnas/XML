@@ -1,0 +1,25 @@
+/*/river[length=max(/*/river/length)]/name
+Description: Yangtze
+
+/*/country[@car_code=/*/river[length=max(/*/river/length)]/estuary/@country]/name
+China
+
+/*/country[border/@country='D']/name
+Description: Switzerland
+Description: Poland
+Description: Netherlands
+Description: Luxembourg
+Description: France
+Description: Denmark
+Description: Czech Republic
+Description: Belgium
+Description: Austria
+
+
+/*/country[name='Turkey']/@area
+780580
+
+
+sum(/*/country[religion='Christian'][encompassed/@continent='africa']/religion/@percentage) 
+
+
